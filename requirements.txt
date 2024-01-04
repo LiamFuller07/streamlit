@@ -1,4 +1,3 @@
 streamlit==1.29.0
 PYTHON-dotenv
-deepgram-sdk==3
-
+deepgram
